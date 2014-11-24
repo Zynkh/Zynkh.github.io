@@ -8,10 +8,10 @@ permalink: /jabberwock/
 
 <p class="justify">A short film I produced at VFS. We had a team of over 50 people and the output is quite visually stunning for a student film. I seem to have misplaced my copy of the whole film, but til I find it, here's the teaser that was put on youtube. This project was to get us hands-on experience with concept development, hiring and casting, pitching, money-raising, project management and a million other little things that have to go into a film before it's watchable.</p>
 
-<center>
-<div class='embed-container'>
-<p><iframe src='http://www.youtube.com/embed/TVPJkMNikLE' frameborder='0' allowfullscreen></iframe></p></div>
-</center>
+<video width="1280" height="720" controls>
+  <source src="/media/Jabberwock/jabberwock_teaser.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 <img class="port-img img-full" src="/media/Jabberwock/IMG_0844.jpg">
 <img class="port-img img-full" src="/media/Jabberwock/Jabberwocky%20174.JPG">
