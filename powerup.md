@@ -8,7 +8,7 @@ permalink: /powerup/
 <div>
 <p class="justify">As one of my projects at VFS, to learn about sourcing music, negotiating contracts and aquiring liscences, we were to create a compilation album to sell for charity. I thought it would be neat to do a video game themed one to benefit the Child's Play charity, who give toys and games to sick kids in hospitals worldwide. My team and I set a record for the project and made $15,000 total, and even won an award for our efforts.</p>
 
-<video width="720" height="405" controls>
+<video controls>
   <source src="/media/powerup/PowerUp.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
