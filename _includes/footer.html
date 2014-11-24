@@ -1,0 +1,23 @@
+<footer class="site-footer">
+
+  <div class="footer-line"></div>
+
+  <center><span id="quote">  </span></center>
+
+</footer>
+
+<script>
+  $(document).ready(function() {
+    var quotes = [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    ];
+
+    var randomNumber = Math.floor(Math.random()*quotes.length);
+    
+    $("#quote").append(quotes[randomNumber]);
+  });
+</script>

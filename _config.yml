@@ -1,0 +1,14 @@
+# Site settings
+title: Zach Hill - Web Dev+
+# email: your-email@domain.com
+description: My online portfolio
+baseurl: project
+url: https://zynkh.github.io
+twitter_username: jekyllrb
+github_username:  Zynkh
+
+# Build settings
+markdown: kramdown
+
+# port:    3000
+# host:    0.0.0.0

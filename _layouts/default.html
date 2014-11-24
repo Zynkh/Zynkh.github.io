@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body id="page-top" class="index">
+    <div style="overflow:hidden">
+      <div class="head-pad">
+      {% include header.html %}
+      </div>
+      <div class="switch">
+          {{ content }}
+        {% include footer.html %}
+      </div>
+    </div>
+    <script>
+    $(document).ready(function() {
+      $('.switch').hide();
+
+      $("#link-about").removeAttr("href");
+      $("#link-index").removeAttr("href");
+      $("#link-blog").removeAttr("href");
+      $("#link-contact").removeAttr("href");
+
+      $("#link-3d").removeAttr("href");
+      $("#link-dd-comic").removeAttr("href");
+      $("#link-jabberwock").removeAttr("href");
+      $("#link-power-up").removeAttr("href");
+      $("#link-sketchbook").removeAttr("href");
+      $("#link-remarks").removeAttr("href");
+      $("#link-arcanengine").removeAttr("href");
+      $("#link-staticity").removeAttr("href");
+      $("#link-spider").removeAttr("href");
+
+      $(".link-nope").removeAttr("href");
+
+
+      $( ".switch" ).fadeIn(300, function() {
+          // Animation complete.
+        });
+
+      $('#link-about').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/about/'; });
+      });
+      $('#link-index').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/index.html'; });
+      });
+      $('#link-blog').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/blog/'; });
+      });
+      $('#link-contact').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/contact/'; });
+      });
+
+
+      $('#link-3d').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/3d/'; });
+      });
+      $('#link-dd-comic').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/ddcomic/'; });
+      });
+      $('#link-jabberwock').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/jabberwock/'; });
+      });
+      $('#link-power-up').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/powerup/'; });
+      });
+      $('#link-sketchbook').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/sketchbook/'; });
+      });
+      $('#link-remarks').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/remarks/'; });
+      });
+      $('#link-arcanengine').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/arcanengine/'; });
+      });
+      $('#link-staticity').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/staticity/'; });
+      });
+      $('#link-spider').click(function(){
+        $('.switch').fadeOut(300,function() {
+          window.location.href = '/spider/'; });
+      });
+
+    });
+    </script>
+  
+  </body>
+
+</html>
