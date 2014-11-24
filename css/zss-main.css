@@ -602,8 +602,9 @@ width:80%;
 #hex-1 {
     background-color: #cc9d64;
     background-image: url(http://www.zeldadungeon.net/wp-content/uploads/2011/07/Hojo.png);
-    .hexTop, .hexBottom {background-color: #cc9d64;}
 }
+    #hex-1 .hexTop {background-color: #cc9d64;}
+    #hex-1 .hexBottom {background-color: #cc9d64;}
 
 #hex-2 {
     background-color: #64C7CC;

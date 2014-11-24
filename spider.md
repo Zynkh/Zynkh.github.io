@@ -16,10 +16,10 @@ permalink: /spider/
 <br>
 <small>I run my code, which scrapes through the websites inventory pages...</small>
 </h2>
-<img class="port-img img-full" src="/media/Spider/ad_start.jpg">
+<img class="port-img img-full" src="/media/spider/ad_start.jpg">
 
 <h2>Final Output
 <br>
 <small>And this is what's spit out once the program runs</small>
 </h2>
-<img class="port-img img-full" src="/media/Spider/output.jpg">
+<img class="port-img img-full" src="/media/spider/output.jpg">
