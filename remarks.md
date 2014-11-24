@@ -15,16 +15,16 @@ permalink: /remarks/
 <br>
 <small>A user writes up their essay in a minimalist javascript word processor.</small>
 </h2>
-<img class="port-img img-full" src="/media/Remarks/write.jpg">
+<img class="port-img img-full" src="/media/remarks/write.jpg">
 
 <h2>Comment
 <br>
 <small>Other users can comment on specific paragraphs, in the style of sites like Medium.</small>
 </h2>
-<img class="port-img img-full" src="/media/Remarks/comments.jpg">
+<img class="port-img img-full" src="/media/remarks/comments.jpg">
 
 <h2>highlighting
 <br>
 <small>To target a specific passage, a user can highlight a selection and comment right on it, in the way a teacher would highlight when marking an essay.</small>
 </h2>
-<img class="port-img img-full" src="/media/Remarks/highlighting.jpg">
+<img class="port-img img-full" src="/media/remarks/highlighting.jpg">

@@ -16,15 +16,15 @@ permalink: /staticity/
 <br>
 <small>We really wanted an app that crunched heavy data, but kept it beautifil and accessible</small>
 </h2>
-<img class="port-img img-full" src="/media/Staticity/select.jpg">
-<img class="port-img img-full" src="/media/Staticity/results.jpg">
-<img class="port-img img-full" src="/media/Staticity/wordcloud.jpg">
-<img class="port-img img-full" src="/media/Staticity/form.jpg">
+<img class="port-img img-full" src="/media/staticity/select.jpg">
+<img class="port-img img-full" src="/media/staticity/results.jpg">
+<img class="port-img img-full" src="/media/staticity/wordcloud.jpg">
+<img class="port-img img-full" src="/media/staticity/form.jpg">
 
 <h2>Mobile
 <br>
 <small>We paid special attention to making it responsive</small>
 </h2>
-<img class="port-img img-half" src="/media/Staticity/scores.jpg">
-<img class="port-img img-half" src="/media/Staticity/cost.jpg">
-<img class="port-img img-half" src="/media/Staticity/temperature.jpg">
+<img class="port-img img-half" src="/media/staticity/scores.jpg">
+<img class="port-img img-half" src="/media/staticity/cost.jpg">
+<img class="port-img img-half" src="/media/staticity/temperature.jpg">

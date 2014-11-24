@@ -13,7 +13,7 @@ permalink: /arcanengine/
 
 <center><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.kickstarter.com/projects/330752914/arcanengine-build-and-3d-print-one-of-a-kind-table/widget/video.html" frameborder='0' allowfullscreen></iframe></div></center>
 
-<img class="port-img img-half" src="/media/Arcanengine/ArcanEngine_Logo2.png">
+<img class="port-img img-half" src="/media/arcanengine/ArcanEngine_Logo2.png">
 
 
 </div>

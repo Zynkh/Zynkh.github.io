@@ -126,7 +126,7 @@ permalink: /ddcomic/
 
     <div class="col-xs-6 col-sm-4 col-md-4">
         <div class="thumbnail">
-            <img data-src="holder.js/171x270" alt="171x270" src="/media/dderailed/dd_11.jpg" data-holder-rendered="true" style="height: 270px; width: 171; display: block;">
+            <img data-src="holder.js/171x270" alt="171x270" src="/media/dderailed/dd_11.JPG" data-holder-rendered="true" style="height: 270px; width: 171; display: block;">
             <div class="caption">
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Modal11" style="height:40px; width:100px;">
                 View
@@ -137,7 +137,7 @@ permalink: /ddcomic/
 
     <div class="col-xs-6 col-sm-4 col-md-4">
         <div class="thumbnail">
-            <img data-src="holder.js/171x270" alt="171x270" src="/media/dderailed/dd_12.jpg" data-holder-rendered="true" style="height: 270px; width: 171; display: block;">
+            <img data-src="holder.js/171x270" alt="171x270" src="/media/dderailed/dd_12.JPG" data-holder-rendered="true" style="height: 270px; width: 171; display: block;">
             <div class="caption">
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Modal12" style="height:40px; width:100px;">
                 View

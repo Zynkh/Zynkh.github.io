@@ -609,73 +609,85 @@ width:80%;
 #hex-2 {
     background-color: #64C7CC;
     background-image: url(http://www.zeldadungeon.net/wp-content/uploads/2011/07/Hojo.png);
-    .hexTop, .hexBottom {background-color: #64C7CC;}
 }
+    #hex-1 .hexTop {background-color: #64C7CC;}
+    #hex-1 .hexBottom {background-color: #64C7CC;}
 
 #hex-3 {
     background-color: #648acc;
     background-image: url(http://www.zeldadungeon.net/wp-content/uploads/2011/07/Hojo.png);
-    .hexTop, .hexBottom {background-color: #648acc;}
 }
+    #hex-1 .hexTop {background-color: #648acc;}
+    #hex-1 .hexBottom {background-color: #648acc;}
 
 #hex-4 {
     background-color: #a4cc64;
     background-image: url(http://www.zeldadungeon.net/wp-content/uploads/2011/07/Hojo.png);
-    .hexTop, .hexBottom {background-color: #a4cc64;}
 }
+    #hex-1 .hexTop {background-color: #a4cc64;}
+    #hex-1 .hexBottom {background-color: #a4cc64;}
 
 #hex-5 {
     background-color: #b19c7f;
     background-image: url(http://www.zeldadungeon.net/wp-content/uploads/2011/07/Hojo.png);
-    .hexTop, .hexBottom {background-color: #b19c7f;}
 }
+    #hex-1 .hexTop {background-color: #b19c7f;}
+    #hex-1 .hexBottom {background-color: #b19c7f;}
 
 #hex-6 {
     background-color: #cc6964;
     background-image: url(http://www.zeldadungeon.net/wp-content/uploads/2011/07/Hojo.png);
-    .hexTop, .hexBottom {background-color: #cc6964;}
 }
+    #hex-1 .hexTop {background-color: #cc6964;}
+    #hex-1 .hexBottom {background-color: #cc6964;}
 
 #hex-7 {
     background-color: #7164cc;
     background-image: url(http://www.zeldadungeon.net/wp-content/uploads/2011/07/Hojo.png);
-    .hexTop, .hexBottom {background-color: #7164cc;}
 }
+    #hex-1 .hexTop {background-color: #7164cc;}
+    #hex-1 .hexBottom {background-color: #cc9d64;}
 
 #hex-8 {
     background-color: #ae64cc;
     background-image: url(http://www.zeldadungeon.net/wp-content/uploads/2011/07/Hojo.png);
-    .hexTop, .hexBottom {background-color: #ae64cc;}
 }
+    #hex-1 .hexTop {background-color: #ae64cc;}
+    #hex-1 .hexBottom {background-color: #ae64cc;}
 
 #hex-9 {
     background-color: #989898;
     background-image: url(http://www.zeldadungeon.net/wp-content/uploads/2011/07/Hojo.png);
-    .hexTop, .hexBottom {background-color: #989898;}
 }
+    #hex-1 .hexTop {background-color: #989898;}
+    #hex-1 .hexBottom {background-color: #989898;}
 
 #hex-10 {
     background-color: #648acc;
     background-image: url(/img/leo_eyes.png);
-    .hexTop, .hexBottom {background-color: #64C7CC;}
 }
+    #hex-1 .hexTop {background-color: #648acc;}
+    #hex-1 .hexBottom {background-color: #648acc;}
 
 #hex-11 {
     background-color: #7a64cc;
     background-image: url(/img/donatello_eyes.png);
-    .hexTop, .hexBottom {background-color: #64C7CC;}
 }
+    #hex-1 .hexTop {background-color: #7a64cc;}
+    #hex-1 .hexBottom {background-color: #7a64cc;}
 
 #hex-12 {
     background-color: #cc6964;
     background-image: url(/img/raph_eyes.png);
-    .hexTop, .hexBottom {background-color: #64C7CC;}
 }
+    #hex-1 .hexTop {background-color: #cc6964;}
+    #hex-1 .hexBottom {background-color: #cc6964;}
 
 #hex-13 {
     background-color: #cca464;
     background-image: url(/img/mikey_eyes.png);
-    .hexTop, .hexBottom {background-color: #64C7CC;}
 }
+    #hex-1 .hexTop {background-color: #cca464;}
+    #hex-1 .hexBottom {background-color: #cca464;}
 
 /* HEX ID'S END */
