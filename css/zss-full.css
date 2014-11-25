@@ -1,3 +1,6 @@
+h1 {
+  margin-top: 0px;
+}
 
 .z-full {
 display:initial;
@@ -32,4 +35,13 @@ display:none;
   bottom:20px;
   display: inline-block;
   cursor: default;
+}
+
+.page-title {
+  margin-right:auto; 
+  margin-left:auto;
+  display:inline-block;
+  padding:0 5px 0 5px;
+
+  /*border: 2px solid green;*/
 }

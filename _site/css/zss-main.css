@@ -74,16 +74,6 @@ a:hover {
   color: #828282;
 }
 
-.page-title {
-  margin-top: 35px;
-  margin-right:auto; 
-  margin-left:auto;
-  display:inline-block;
-  padding:0 5px 0 5px;
-
-  /*border: 2px solid green;*/
-}
-
 /* Adjustments */
 #top {
   margin:20px 0 0 0;
