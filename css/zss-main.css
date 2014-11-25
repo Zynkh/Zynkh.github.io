@@ -17,6 +17,12 @@ video {
   width: 100%;
 }
 
+.navi-pad-override {
+  padding-left: 0;
+  padding-right: 0;
+
+}
+
 .site-footer {
     position: absolute;
     left: 0;
