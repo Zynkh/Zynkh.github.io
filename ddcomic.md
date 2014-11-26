@@ -7,7 +7,7 @@ permalink: /ddcomic/
 
 <div>
 
-<p class="justify">I really enjoyed this project, it's a webcomic I was intending to release as a part of my ArcanEngine project as a kind of branded entertainment. It's a story based on the hijinks of my game groups Dungeons and Dragons characters. I partnered up with a great artist and we got through all the concept development and a few of the first pages before she moved back to the UK. I came up with the story, dialogue, page layout and panel roughs, then she took those and made them mega pretty, it worked quite well. I put it on the backburner after my Kickstarter but I intend to revisit it. I love this stuff.</p>
+<p class="justify">I really enjoyed this project, it's a webcomic I was intending to release as a part of my ArcanEngine project as a kind of branded entertainment. It's a story based on the hijinks of my game groups Dungeons and Dragons characters. I partnered up with a great artist and we got through all the concept development and a few of the first pages before she moved back to the UK. I came up with the story, dialogue, page layout and panel roughs, then she took those and made them mega pretty, so it worked quite well. I put it on the backburner after my Kickstarter but I intend to revisit it. I love this stuff.</p>
 
 <img class="port-img img-full" src="/media/dderailed/dd_comic_banner.jpg">
 
