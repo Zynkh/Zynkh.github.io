@@ -574,6 +574,18 @@ width:80%;
 
 /* Contact buttons */
 
+.btn-long {
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    border: 2px solid #454545;
+    border-radius: 20%;
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+    cursor: pointer;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;
@@ -607,6 +619,10 @@ width:80%;
     border: solid 2px #F3E6FF;
     color: #9933FF;
     background: #F3E6FF;
+}
+
+.poof2 {
+  display:none;
 }
 
 /* Contact buttons end */

@@ -26,4 +26,32 @@ Feel free to connect with me. Here I have links to both my LinkedIn and Github p
             <a href="http://www.linkedin.com/in/mzhill/" target="blank" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
         </li>
     </ul>
+
+    <ul class="list-inline">
+        <span class="addy-magic">
+            <li class="poof1">
+                <p class="btn-long btn-outline">Reveal my email address</p>
+            </li>
+            <li class="poof2">
+                <p class="btn-long" style="margin-top:15px; cursor:auto"><span class="poof3"></span></p>
+            </li>
+        </span>
+    </ul>
+    
+<div><p class="poof"></p></div>
+
 </center>
+
+<script>
+    $(document).ready(function() {
+
+        var reveal = function(){
+            $('.poof1').fadeOut(300);
+            $('.poof3').text("m.zach.hill@gmail.com")
+            $('.poof2').delay(300).fadeIn(300);
+        };
+
+        $('.addy-magic').on( "click", reveal );
+
+    });
+</script>
