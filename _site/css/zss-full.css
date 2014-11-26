@@ -46,3 +46,17 @@ display:none;
 
   /*border: 2px solid green;*/
 }
+
+/* STICKY FOOTER */
+
+body {
+    margin: 0 0 75px; /* bottom = footer height */
+}
+
+.site-footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 75px;
+    width: 100%;
+}

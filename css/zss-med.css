@@ -50,3 +50,18 @@ display:none;
 
   /*border: 2px solid green;*/
 }
+
+/* STICKY FOOTER */
+
+body {
+    margin: 0 0 100px; /* bottom = footer height */
+}
+
+.site-footer {
+    padding: 0 10px 0 10px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+}

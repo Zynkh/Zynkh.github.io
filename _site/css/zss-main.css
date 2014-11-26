@@ -8,9 +8,6 @@ html {
     position: relative;
     min-height: 100%;
 }
-body {
-    margin: 0 0 50px; /* bottom = footer height */
-}
 
 video {
   margin: 10px auto 10px auto;
@@ -21,14 +18,6 @@ video {
   padding-left: 0;
   padding-right: 0;
 
-}
-
-.site-footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 50px;
-    width: 100%;
 }
 
 a {
@@ -42,7 +31,7 @@ a:hover {
 }
 
 #quote {
-
+text-align: center;
 }
 
 .back {

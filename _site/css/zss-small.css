@@ -59,3 +59,17 @@ display:initial;
 
   /*border: 2px solid green;*/
 }
+
+/* STICKY FOOTER */
+
+body {
+    margin: 0 0 120px; /* bottom = footer height */
+}
+
+.site-footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 120px;
+    width: 100%;
+}
