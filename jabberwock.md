@@ -9,7 +9,7 @@ permalink: /jabberwock/
 <p class="justify">A short film I was a producer on. We had a team of over 50 people to manage and the output is quite visually stunning for an indie film. I seem to have misplaced my copy of the whole film, but til I find it, here's the teaser that was put on youtube.</p>
 
 <video controls>
-  <source src="/media/Jabberwock/jabberwock_teaser.mp4" type="video/mp4">
+  <source src="/media/Jabberwock/jabberwock_teaser.mp4" type="video/mp4"/>
 Your browser does not support the video tag.
 </video>
 
