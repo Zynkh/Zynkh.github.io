@@ -10,6 +10,8 @@ permalink: /jabberwock/
 
 <video controls>
   <source src="/media/Jabberwock/jabberwock_teaser.mp4" type="video/mp4"/>
+  <source src="/media/Jabberwock/jabberwock.ogv" type="video/ogg"/>
+  <source src="/media/Jabberwock/jabberwock.webm" type="video/webm"/>
 Your browser does not support the video tag.
 </video>
 
