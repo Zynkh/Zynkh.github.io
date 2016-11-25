@@ -16,14 +16,5 @@ permalink: /about/
 
 <p class="justify">I'm hugely excited by science, technology and what the future holds. I'm a big fan of tabletop games and my bookshelves are full of sci-fi and fantasy novels and esoterica of all sorts. I want to use every skill and resource at my disposal to make a difference in the world and change it for the better.
 </p>
-
-<p class="justify"><strong>What I'm up to right now:</strong>
-<br>
-● Climbing Mountains, taking pictures and listening to audiobooks.
-● Designing a real-world productivity game based on the latest productivity techniques and science on motivation.
-● Writing 50,000 words for National Novel Writing Month.
-● Building a simple tool to streamline some of the more tiresome aspects of tabletop gaming combat.
-● Experimenting with fasting, ketosis and optimal nutrition.
-</p>
 <center><img id="about-img-small" src="/img/about_zach.png"></center>
 </div>
