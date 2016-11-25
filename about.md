@@ -12,7 +12,7 @@ permalink: /about/
 
 <p class="justify">I successfully sold my last project (a 3D printing company that catered to tabletop gamers) and currently run a small business that pays my bills and takes very little time out of my week. I recently dove into web development because all the coolest projects these days are being done by developers or engineers, and I wanted the power to make my ideas reality.</p>
 
-<p class="justify">My aptitude favours front end right now, though I have my sights firmly locked on full stack. I love the "architect" part of a project and I'm very good at the 10,000 foot view, visualizing a project in every detail, then figuring out what's needed and how everything will fit together. I also really enjoy troubleshooting and solving those weird problems you run into.</p>
+<p class="justify">I love the "architect" part of a project and I'm very good at the 10,000 foot view, visualizing a project in every detail, then figuring out what's needed and how everything will fit together. I also really enjoy troubleshooting and solving those weird problems you run into.</p>
 
 <p class="justify">I'm hugely excited by science, technology and what the future holds. I love games, especially tabletop games like D&D and my shelves are full of sci-fi and fantasy novels. I dream big and want to use every skill and resource at my disposal to make a difference in the world and change it for the better.
 </p>
