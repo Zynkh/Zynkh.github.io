@@ -5,17 +5,17 @@
     <description>My online portfolio</description>
     <link>https://zynkh.github.io/</link>
     <atom:link href="https://zynkh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Nov 2014 22:02:00 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Nov 2014 22:02:00 +0000</lastBuildDate>
-    <generator>Jekyll v2.5.0</generator>
+    <pubDate>Fri, 25 Nov 2016 14:08:07 -0800</pubDate>
+    <lastBuildDate>Fri, 25 Nov 2016 14:08:07 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>This is my first post</title>
+        <title>Something will go here, eventually, maybe...</title>
         <description>&lt;p&gt;Hi there, this is where my blog will be, once I figure out what to write about.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 07 Nov 2014 06:17:57 +0000</pubDate>
-        <link>https://zynkh.github.io/test/2014/11/07/firstpost.html</link>
-        <guid isPermaLink="true">https://zynkh.github.io/test/2014/11/07/firstpost.html</guid>
+        <pubDate>Thu, 06 Nov 2014 22:17:57 -0800</pubDate>
+        <link>https://zynkh.github.io/test/2014/11/06/firstpost.html</link>
+        <guid isPermaLink="true">https://zynkh.github.io/test/2014/11/06/firstpost.html</guid>
         
         
         <category>test</category>

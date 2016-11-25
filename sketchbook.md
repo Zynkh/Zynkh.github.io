@@ -13,21 +13,14 @@ permalink: /sketchbook/
 <img class="port-img img-half" src="/media/Sketchbook/1LD.jpg">
 <img class="port-img img-half" src="/media/Sketchbook/2LD.jpg">
 <img class="port-img img-half" src="/media/Sketchbook/3LD.jpg">
-<img class="port-img img-half" src="/media/Sketchbook/5LD.jpg">
-<img class="port-img img-half" src="/media/Sketchbook/6LD.jpg">
+
 <img class="port-img img-half" src="/media/Sketchbook/7LD.jpg">
 <img class="port-img img-half" src="/media/Sketchbook/8LD.jpg">
-<img class="port-img img-half" src="/media/Sketchbook/12LD.jpg">
-<img class="port-img img-half" src="/media/Sketchbook/10LD.jpg">
-<img class="port-img img-half" src="/media/Sketchbook/11LD.jpg">
+
 <img class="port-img img-half" src="/media/Sketchbook/9LD.jpg">
 <img class="port-img img-half" src="/media/Sketchbook/13LD.jpg">
 
-<img class="port-img img-full" src="/media/Sketchbook/copper.jpg">
 <img class="port-img img-half" src="/media/Sketchbook/black.jpg">
 <img class="port-img img-half" src="/media/Sketchbook/white.jpg">
 <img class="port-img img-half" src="/media/Sketchbook/blue.jpg">
 <img class="port-img img-half" src="/media/Sketchbook/green.jpg">
-<img class="port-img img-full" src="/media/Sketchbook/beast_soldier.jpg">
-<img class="port-img img-half" src="/media/Sketchbook/nutty.jpg">
-<img class="port-img img-half" src="/media/Sketchbook/shiek.jpg">

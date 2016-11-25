@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is my first post"
+title:  "Something will go here, eventually, maybe..."
 date:   2014-11-07 06:17:57
 categories: test
 ---
