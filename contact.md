@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 <center>
-    <p style="text-align:justify;">Feel free to connect with me.</p>
+    <p">Feel free to connect with me. Or click on the face or rocket for something awesome or inspiring.</p>
 </center>
 
 <center>
